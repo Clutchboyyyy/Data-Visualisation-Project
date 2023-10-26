@@ -254,12 +254,10 @@ with st.container():
     st.write("I hope that this shared reflexion has helped you for your orientation. We've looked at the different factors you need to take into account when making your decision, but the choice is entirely up to you. The future is yours, so choose what you really like.")
     st.write("\nThank you for reading !")
 
-st.markdown("""
-<style>
-div.block-container{
-   max-width: 85% !important;
-   margin-left: auto; 
-   margin-right: auto;
-}
-</style>  
-""", unsafe_allow_html=True)
+    st.markdown("""
+    <style>
+    div.block-container{
+       max-width: 90% !important;
+    }
+    </style>  
+    """, unsafe_allow_html=True)
