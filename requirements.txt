@@ -4,4 +4,4 @@ seaborn
 numpy
 plotly
 altair
-pil
+image
